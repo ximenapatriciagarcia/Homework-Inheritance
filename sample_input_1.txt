@@ -1,0 +1,9 @@
+4
+Smith, John
+Biology 90 85 88 92 87
+Garcia, Maria
+Theater 95 90 93
+Brown, Kevin
+Computer Science 100 95 90 85 80 75 88 92 90
+Davis, Anna
+Biology 80 82 84 86 88
